@@ -21,5 +21,13 @@ Controllers
 * LineItemDate -> crud nested under quote
 * LineItem -> crud nested under line item date
 
+Stategy
+* Ruby 3.1 / Rails 7.0.3 base stack 
+* Simple forms for adding html to forms
+* Mainly full stack ActionDispatch::SystemTestCase tests due to heavy js features
+* Devise for user authentication
+* 
+* Minimal CSS no framework naming https://en.bem.info/methodology/css/
+
 All Based on Great tutorial https://www.hotrails.dev/turbo-rails
 to get up to speed on Rails 7
