@@ -31,3 +31,9 @@ Stategy
 
 All Based on Great tutorial https://www.hotrails.dev/turbo-rails
 to get up to speed on Rails 7
+
+== Screen shots
+=== Index Page
+![index page](./public/screenshot-index.png)
+==== Show Page
+![show page](./public/screenshot-show.png)
