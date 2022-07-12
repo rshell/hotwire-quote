@@ -21,5 +21,5 @@ Controllers
 * LineItemDate -> crud nested under quote
 * LineItem -> crud nested under line item date
 
-All Best on Great tutorial https://www.hotrails.dev/turbo-rails
+All Based on Great tutorial https://www.hotrails.dev/turbo-rails
 to get up to speed on Rails 7
